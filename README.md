@@ -60,11 +60,18 @@ Search for the word "example" in the file "sample.txt":
 ```bash
 csearch -f sample.txt -w example
 ```
-Perform a case-insensitive search for the word "error" in the file "log.txt":
-
+You can see all the options using `-h` or `--help`.
 ```bash
-csearch -f log.txt -w error
+csearch -h
+This is a word search utility for the command line, similar to grep/fstring tool.
+-f, --file FILE          | Put the filename from which you want to search 
+-w, --word WORD          | Word which you want to search 
+-h, --help HELP          | Use this flag to get help about the flags and usage 
+-v, --version VERSION    | Use this flag to print the version of the tool currently installed 
+Example: search -f <filename>  -w <word>
+
 ```
+
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
