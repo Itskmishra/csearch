@@ -5,8 +5,8 @@
 ## Table of Contents
 * [Features](#features)
 * [Getting Started](#getting-started)
-    * [Prerequisities](#prerequisities)
-    * [Installation](#intallation)
+    * [Prerequisities](#prerequisites)
+    * [Installation](#installation)
 * [Usage](#usage)
     * [Options](#options)
 * [Examples](#examples)
@@ -19,9 +19,13 @@
 * Efficient Codebase: Built in C for optimal performance and minimal resource usage.
 
 ## Getting Started
+
+
 ### Prerequisites
 * GNU/Linux system
 * GCC compiler
+
+
 ### Installation
 1. Clone the repository:
 
