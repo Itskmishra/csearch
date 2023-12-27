@@ -3,15 +3,15 @@
 **CSearch** is a lightweight command-line utility built with C, offering basic grep-like functionality with a focus on simplicity and efficiency. The tool allows users to search for keywords within files, providing highlighted text results for enhanced readability.
 
 ## Table of Contents
-* [Features]()
-* Getting Started
-    * Prerequisities
-    * Installation
-* Usage
-    * Options
-* Examples
-* Contributing
-* License
+* [Features](#features)
+* [Getting Started](#getting-started)
+    * [Prerequisities](#prerequisities)
+    * [Installation](#intallation)
+* [Usage](#usage)
+    * [Options](#options)
+* [Examples](#examples)
+* [Contributing](#contributing)
+* [License](#license)
 
 ## Features
 * Keyword Search: Locate words or phrases within files.
